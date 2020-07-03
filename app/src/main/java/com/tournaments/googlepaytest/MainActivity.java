@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public static final String GOOGLE_PAY_PACKAGE_NAME = "com.google.android.apps.nbu.paisa.user";
     int GOOGLE_PAY_REQUEST_CODE = 123;
     String amount;
-    String name = "MRUDUL K M";
-    String upiId = "mr18yt@okaxis";
+    String name = "Highbrow Director";
+    String upiId = "hashimads123@oksbi";
     String transactionNote = "pay test";
     String status;
     Uri uri;

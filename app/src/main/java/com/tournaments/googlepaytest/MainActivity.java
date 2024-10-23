@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     int GOOGLE_PAY_REQUEST_CODE = 123;
     String amount;
     String name = "Highbrow Director";
-    String upiId = "hashimads123@oksbi";
+    String upiId = "hashimads123@okhdfcbank";
     String transactionNote = "pay test";
     String status;
     Uri uri;
